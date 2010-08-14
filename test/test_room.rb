@@ -15,5 +15,5 @@ class TestAdventureRoom < Test::Unit::TestCase
     # Room must have a description
     assert_equal "You are in the living room now.  You see two couches, one tv, and one wii.", room.description 
     
-  end
+   end
 end
